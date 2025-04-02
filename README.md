@@ -45,5 +45,4 @@ This project aims to analyze the content available on Netflix, including TV show
 - Predicting the success of a new Netflix show based on past data.
 - Analyzing user reviews and ratings if available.
 
-## Author
-Devi
+
